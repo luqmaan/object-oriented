@@ -12,7 +12,7 @@ int setBookId() {
 		each are limited to 3 to avoid going past the max size of an int
 	*/
 
-	int limit = 3;
+	int limit = 5;
 	
 	// generate 
 	char * c_title, * c_author;
